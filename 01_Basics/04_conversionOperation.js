@@ -23,5 +23,14 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 let strNum = "4857sd"
 
 let temp = String(strNum);
-console.log(typeof temp);
-console.log(temp);
+// console.log(typeof temp);
+// console.log(temp);
+
+
+/**********************************************Operations***************************************** */
+
+let gameCounter = 30 
+
+// gameCounter++ 
+// gameCounter++
+console.log(++gameCounter);
