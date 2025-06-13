@@ -13,7 +13,7 @@ let valueInNumber = Number(score)
 // "33abc" => NaN
 // true => 1   false => 0 
 
-let isLoggedIn = 0
+le
 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 // console.log(typeof booleanIsLoggedIn);
